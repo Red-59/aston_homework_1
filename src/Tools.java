@@ -2,7 +2,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Tools {
-
     private String tool1;
     private String tool2;
     private String tool3;
