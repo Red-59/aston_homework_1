@@ -12,7 +12,6 @@ public class Main {
         String tool3 = tools1.getTool3();
         String tool4 = tools1.getTool4();
 
-
         List<String>setTool1=Arrays.asList(tool1,tool2);
         List<String>setTool2=Arrays.asList(tool3,tool4);
         List<String>setTool3=Arrays.asList(tool1,tool2,tool3);
