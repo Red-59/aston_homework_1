@@ -1,4 +1,3 @@
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
@@ -19,7 +18,6 @@ public class Main {
         List<String>setTool3=Arrays.asList(tool1,tool2,tool3);
 
         Tools tools2 = new Tools(setTool1);
-
         ToolBox size = new ToolBox(30, 50, 10, tools1);
 
         System.out.println();
