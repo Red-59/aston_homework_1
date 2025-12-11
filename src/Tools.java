@@ -22,19 +22,15 @@ public class Tools {
     public String getTool1() {
         return tool1;
     }
-
     public String getTool2() {
         return tool2;
     }
-
     public String getTool3() {
         return tool3;
     }
-
     public String getTool4() {
         return tool4;
     }
-
     public List<String> getSetTool() {
         return setTool;
     }
