@@ -1,6 +1,5 @@
 
 public final class ToolBox {
-
     private final int width;
     private final int length;
     private final int height;
@@ -13,7 +12,6 @@ public final class ToolBox {
         this.height=height;
         this.tools=tools;
     }
-
         public int getWidth() {
             return width;
         }
